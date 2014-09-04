@@ -1,7 +1,7 @@
 VERSION = 3
 PATCHLEVEL = 4
 SUBLEVEL = 39
-EXTRAVERSION =
+EXTRAVERSION =-LibidinosoSCKernel1.0
 NAME = Saber-toothed Squirrel
 
 # *DOCUMENTATION*
